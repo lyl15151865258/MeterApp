@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 	<string-array name="main_optionpage_arrays">
+        <item>选择操作项</item>
+        <item>用户登录</item>
+        <item>层级查询</item>
+    </string-array>
+     <string-array name="basedata_viewpage_arrays">
+        <item>层级</item>
+        <item>信息</item>
+        <item>数据</item>
+    </string-array>
+	<string-array name="control_viewpage_arrays">
+        <item>控制</item>
+        <item>抄表</item>
+    </string-array>
+        <string-array name="collector_viewpage_arrays">
+        <item>采集器</item>
+        <item>配置</item>
+    </string-array>
+    <string-array name="customer_viewpage_arrays">
+        <item>用水</item>
+        <item>信息</item>
+    </string-array>
+     <string-array name="device_type_arrays">
+        <item>热量表</item>
+        <item>阀控表</item>
+        <item>水表</item>
+        <item>阀控表</item>
+        <item>流量计</item>
+        <item>通断控制器</item>
+        <item>智能控制阀</item>
+        <item>室温控制器</item>
+        <item>集中器</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_bottom.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_top.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\out_to_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\footer_menu_slide_out.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\footer_menu_slide_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_bottom_in.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\anim_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_top.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\in_from_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_bottom.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_bottom_out.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\anim_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\quick_option_close.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\quick_option_close.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\footer_menu_slide_in.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\anim\\footer_menu_slide_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

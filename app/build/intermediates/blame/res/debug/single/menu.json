@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\team_project_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\team_project_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\refresh_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\refresh_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\submit_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\submit_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pub_tweet_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\pub_tweet_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_active_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\my_active_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pub_new_team_active_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\pub_new_team_active_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\team_issue_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\team_issue_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\team_main_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\team_main_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\team_issue_catalog_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\team_issue_catalog_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\browser_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\browser_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notebook_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\notebook_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notebook_edit_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\notebook_edit_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\team_new_issue_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\team_new_issue_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pub_topic_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\pub_topic_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\team_issue_detail_menu.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\menu\\team_issue_detail_menu.xml"
+    }
+]

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/list_item_background"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+	<LinearLayout 
+	    android:orientation="horizontal"
+	    android:background="@drawable/list_item_background"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/text_l1"
+        android:layout_width="40dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_1"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666" />
+    
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+    
+    <TextView
+        android:id="@+id/text_l2"
+        android:layout_width="70dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_2"
+       android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666" />
+    
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l3"
+        android:layout_width="70dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_3"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666" />
+    
+     <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l4"
+        android:layout_width="90.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_4"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l5"
+        android:layout_width="100.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_5"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l6"
+        android:layout_width="90.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_6"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l7"
+        android:layout_width="50.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_7"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l8"
+        android:layout_width="80.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_8"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l9"
+        android:layout_width="80.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_9"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l10"
+        android:layout_width="80.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_10"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+
+    <TextView
+        android:id="@+id/text_l11"
+        android:layout_width="90.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_11"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+    <TextView
+        android:id="@+id/text_l13"
+        android:layout_width="90.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_13"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+    <TextView
+        android:id="@+id/text_l12"
+        android:layout_width="90.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_12"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"/>
+    
+    <View 
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="@color/ui_dialog_divider"/>
+    <TextView
+        android:id="@+id/text_l14"
+        android:layout_width="90.0dip"
+        android:layout_height="wrap_content"
+        android:text="@string/report_14"
+        android:background="@drawable/list_item_background"
+        android:padding="@dimen/space_5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#666"
+        />
+	</LinearLayout>
+	<View 
+	        android:layout_width="fill_parent"
+	        android:layout_height="1.5dip"
+	        android:background="@color/actionbar_background"/>
+</LinearLayout>

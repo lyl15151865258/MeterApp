@@ -1,0 +1,2626 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hand.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hand.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ram.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ram.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunglasses.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sunglasses.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\joy.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\joy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_search_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_search_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snake.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\snake.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shidongliuliang.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\shidongliuliang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_unlike.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_unlike.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_me_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_me_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rose.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_101.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_101.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_35.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_35.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messagescenter_notice.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\messagescenter_notice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notes.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\notes.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\feet.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\feet.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dancers.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dancers.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_47.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_47.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_3.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_52.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_52.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\heartbeat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\heartbeat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cry.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cry.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dizzy.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dizzy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_brows_systembrowser.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_brows_systembrowser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\man_with_gua_pi_mao.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\man_with_gua_pi_mao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rage1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rage1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wolf.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\wolf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_exit.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_exit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_followed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_followed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_up_2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\point_up_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_81.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_81.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\older_woman.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\older_woman.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_note_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_note_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_down.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\point_down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_keyboard_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_keyboard_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\see_no_evil.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\see_no_evil.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_31.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_31.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_68.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_68.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_week.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_week.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xianshibiaohao.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xianshibiaohao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_quarter_moon_with_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\first_quarter_moon_with_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goberserk.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\goberserk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exclamation.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\exclamation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_7.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_exit_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_exit_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_85.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_85.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\heartpulse.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\heartpulse.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earth_americas.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\earth_americas.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\anguished.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\anguished.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chicken.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\chicken.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\raised_hands.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\raised_hands.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_40.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_40.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_card_small_placeholder.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\timeline_card_small_placeholder.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_97.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_97.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umbrella.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\umbrella.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\two_women_holding_hands.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\two_women_holding_hands.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shit.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\shit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_explore_friends.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_explore_friends.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\elephant.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\elephant.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pic_menu.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_pic_menu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pig2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\pig2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_opensoft_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_opensoft_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guanbimbus.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\guanbimbus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\worried.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\worried.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\batano.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\batano.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_59.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_59.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_56.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_56.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\older_man.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\older_man.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_18.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_18.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cold_sweat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cold_sweat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_26.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_26.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dash.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\heart_eyes_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\heart_eyes_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haircut.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\haircut.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dispa1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dispa1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_moon_with_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\new_moon_with_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_hands.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\open_hands.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_call.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_call.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_73.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_73.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smile.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dragon_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dragon_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiger2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\tiger2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xianjian03.jpg",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xianjian03.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xianjian02.jpg",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xianjian02.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diary_back.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_diary_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bust_in_silhouette.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bust_in_silhouette.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_88.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_88.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\last_quarter_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\last_quarter_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\walking.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\walking.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\expressionless.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\expressionless.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diary_canforward.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_diary_canforward.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_emoji_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\btn_emoji_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_44.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_44.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pouting_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\pouting_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_55.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_55.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kiss.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\kiss.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_comment_count.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_comment_count.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flowa2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\flowa2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cloud.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cloud.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_27.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_27.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scream.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\scream.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dizzy_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dizzy_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_0.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_meter_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_meter_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boar.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\boar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_11.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_11.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guanfa.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\guanfa.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\herb.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\herb.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_emoji.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\btn_emoji.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_trend_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_trend_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mouse.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\mouse.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baby.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\baby.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\massage.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\massage.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_good.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\no_good.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_93.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_93.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_quest_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_quest_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blush.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\blush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sun_with_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sun_with_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grimacing.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\grimacing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_query_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_query_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zap.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\zap.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flash_open.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\flash_open.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\relaxed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\relaxed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thumbsdown.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\thumbsdown.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_config_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_config_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\audio2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_10.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\droplet.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\droplet.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\four_leaf_clover.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\four_leaf_clover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_device_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_device_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_retweet_count.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_retweet_count.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_config_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_config_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_89.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_89.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maple_leaf.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\maple_leaf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\couple_with_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\couple_with_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_search_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_search_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiger.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\tiger.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_album_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_album_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_scan_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_scan_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_explore_shake.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_explore_shake.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\squirrel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\squirrel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crocodile.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\crocodile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_64.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_64.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cow2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cow2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_emoji_normal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_emoji_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blowfish.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\blowfish.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok_hand.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ok_hand.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\last_quarter_moon_with_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\last_quarter_moon_with_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_51.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_51.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\deciduous_tree.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\deciduous_tree.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_96.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_96.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_toolbar_bg.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\maintab_toolbar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stuck_out_tongue_winking_eye.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\stuck_out_tongue_winking_eye.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_102.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_102.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\userinfo_icon_male.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\userinfo_icon_male.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yellow_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\yellow_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blossom.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\blossom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_dface.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_dface.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_item_opt_more_normal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\btn_item_opt_more_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_right.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\point_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plus1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\plus1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\facepunch.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\facepunch.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_picture_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_picture_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xielvxiuzheng.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xielvxiuzheng.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dolphin.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dolphin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_me_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_me_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sweat_drops.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sweat_drops.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record_delete.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_6.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bouquet.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bouquet.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_100.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_100.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_device_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_device_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_36.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_36.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\star.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dancer.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dancer.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_more_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_98.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_98.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hankey.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hankey.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hibiscus.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hibiscus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\octocat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\octocat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\waning_gibbous_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\waning_gibbous_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_84.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_84.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_brows_forward.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_brows_forward.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cop.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\japanese_goblin.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\japanese_goblin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_explore_event.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_explore_event.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_news_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_news_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\globe_with_meridians.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\globe_with_meridians.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_15.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_15.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more_sel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_more_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\satisfied.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\satisfied.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_46.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_46.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bride_with_veil.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bride_with_veil.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\foggy.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\foggy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_tweet_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_tweet_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_63.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_63.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_voice_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_voice_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_radio_on.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\btn_radio_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dromedary_camel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dromedary_camel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poop.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\poop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\muscle.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\muscle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_94.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_94.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_53.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_53.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confounded.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\confounded.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wave.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\wave.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smile_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smile_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_rss_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_rss_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\camel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leopard.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\leopard.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grin.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\grin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comment_line_triangle.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\comment_line_triangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trollface.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\trollface.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leaves.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\leaves.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crying_cat_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\crying_cat_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\broken_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\broken_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_43.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_43.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\princess.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\princess.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_chat_comment_send.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\biz_chat_comment_send.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hie_building.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hie_building.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_time.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_time.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_13.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_13.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_58.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_58.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\neckbeard.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\neckbeard.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_41.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_41.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_with_blond_hair.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\person_with_blond_hair.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rabbit.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rabbit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunny.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sunny.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pig.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\pig.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thumbsup.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\thumbsup.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snail.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\snail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_38.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_38.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_follow_each_other.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_follow_each_other.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear_image_normal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_clear_image_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sheep.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sheep.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ear.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ear.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\beetle.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\beetle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kissing_closed_eyes.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\kissing_closed_eyes.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fearful.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\fearful.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fallen_leaf.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\fallen_leaf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\two_men_holding_hands.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\two_men_holding_hands.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astonished.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\astonished.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earth_asia.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\earth_asia.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cow.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_album_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_album_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_76.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_76.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_photo_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_photo_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_23.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_23.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speak_no_evil.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\speak_no_evil.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_chat_comment_send_prs.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\biz_chat_comment_send_prs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_8.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_explore_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_explore_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_loginout.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_loginout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dog2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dog2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_keyboard_normal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_keyboard_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_text_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_text_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_71.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_71.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_blog.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_my_blog.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seedling.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\seedling.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\userinfo_icon_female.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\userinfo_icon_female.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_86.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_86.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\platform.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\platform.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boy.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\boy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\imp.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\imp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_message.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_my_message.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_a2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\setting_a2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dragon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dragon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\construction_worker.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\construction_worker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_gcoding.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flash_default.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\flash_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_scan_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_scan_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_trend_normal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_trend_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_explore_scan.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_explore_scan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_48.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kissing_smiling_eyes.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\kissing_smiling_eyes.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cat2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cat2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grey_question.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\grey_question.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_61.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_61.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shell.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\shell.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\two_hearts.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\two_hearts.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weary.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\weary.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\information_desk_person.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\information_desk_person.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xianshishijian.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xianshishijian.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyclone.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cyclone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_explore_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_explore_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\man.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\man.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_5.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record_listen.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record_listen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kissing.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\kissing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finnadie.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\finnadie.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boom.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\boom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\metal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\metal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_radio_off.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\btn_radio_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\raising_hand.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\raising_hand.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_up.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\point_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hear_no_evil.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hear_no_evil.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear_image_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_clear_image_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monkey.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\monkey.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_48_outer_holo.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flushed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\flushed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_with_pouting_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\person_with_pouting_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fish.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\fish.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\staticvalue.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\staticvalue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_21.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_21.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_66.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_66.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stuck_out_tongue_closed_eyes.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\stuck_out_tongue_closed_eyes.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bowtie.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bowtie.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_16.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_16.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_103.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_103.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\octopus.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\octopus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snowman.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\snowman.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sob.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sob.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_voice_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_voice_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_quest_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_quest_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speech_balloon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\speech_balloon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notification.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_news_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_news_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\busts_in_silhouette.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\busts_in_silhouette.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_datareport_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_datareport_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_blog_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_blog_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_33.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_33.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\waxing_gibbous_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\waxing_gibbous_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_95.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_95.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mouse2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\mouse2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_49.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_49.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yum.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\yum.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio0.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\audio0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\revolving_hearts.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\revolving_hearts.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\mask.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_link.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_link.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_62.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_62.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\racehorse.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\racehorse.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\running.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\running.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_tweet_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_tweet_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kaifa.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\kaifa.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nail_care.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\nail_care.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bow.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_item_opt_more_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\btn_item_opt_more_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shuiliangjianding.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\shuiliangjianding.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_28.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_28.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ant.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ant.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grey_exclamation.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\grey_exclamation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_gitapp_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_gitapp_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_a3.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\setting_a3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_cv.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\setting_cv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\eyes.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\eyes.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_setting_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_setting_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panda_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\panda_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_opensoft_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_opensoft_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rage3.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rage3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xianjian04.jpg",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xianjian04.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xianjian01.jpg",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xianjian01.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_mention_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_mention_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launche.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_launche.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tongue.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\tongue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_find_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_find_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_78.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_78.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_91.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_91.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\waxing_crescent_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\waxing_crescent_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\v.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleepy.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sleepy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earth_africa.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\earth_africa.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dog.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dog.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chestnut.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\chestnut.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_50.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_50.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiling_imp.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiling_imp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\man_with_turban.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\man_with_turban.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_37.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_37.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\turtle.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\turtle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\disappointed_relieved.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\disappointed_relieved.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\penguin.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\penguin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_gitapp_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_gitapp_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_left.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\point_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monkey_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\monkey_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frog.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\frog.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snowflake.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\snowflake.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scream_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\scream_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dispa2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dispa2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_query_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_query_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_private_message.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_private_message.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_home_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\couple.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\couple.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_team.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_my_team.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_sel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_home_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_74.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_74.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cactus.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cactus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_meassage_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_meassage_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wink.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\wink.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_48_inner_holo.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\neutral_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\neutral_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_soft_recommend.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_soft_recommend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diary_forward.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_diary_forward.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\anger.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\anger.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rightarrow.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rightarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_25.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_25.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_30.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_30.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_selfinfo_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_selfinfo_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hurtrealbad.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hurtrealbad.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_menu.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\btn_bg_menu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\couplekiss.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\couplekiss.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_92.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_92.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_frowning.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\person_frowning.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pig_nose.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\pig_nose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confused.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\confused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_selfinfo_sel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_selfinfo_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_emoji_pressed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_emoji_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_today_icon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_today_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio3.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\audio3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bug.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bug.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\koala.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\koala.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_99.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_99.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_meassage_sel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_meassage_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\runner.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\runner.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sparkling_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sparkling_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shake_logo.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\shake_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_54.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_54.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\disappointed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\disappointed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_photo_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_photo_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hatched_chick.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hatched_chick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\question.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\question.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rage2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rage2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_83.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_83.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\godmode.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\godmode.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baby_chick.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\baby_chick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_explore_samecity.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_explore_samecity.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_picture_normal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_picture_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\honeybee.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\honeybee.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_exit_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_exit_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\musical_note.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\musical_note.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grinning.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\grinning.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ocean.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ocean.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\angry.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\angry.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\water_buffalo.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\water_buffalo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_45.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_45.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\full_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\full_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thought_balloon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\thought_balloon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_original_icon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_original_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_blog_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_blog_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_79.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_79.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_20.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_20.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_65.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_65.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\family.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\family.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_text_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_text_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\feelsgood.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\feelsgood.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\raised_hand.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\raised_hand.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cupid.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cupid.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nose.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\nose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kissing_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\kissing_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_17.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_17.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_4.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_follow.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_add_follow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bird.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bird.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diary_calendar.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_diary_calendar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_datareport_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_datareport_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_82.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_82.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\blue_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\purple_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\purple_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record_layout_sel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record_layout_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fist.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\fist.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_quarter_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\first_quarter_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunflower.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sunflower.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\collision.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\collision.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kissing_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\kissing_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_19.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_19.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smirk_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smirk_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_22.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_22.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\goat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\innocent.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\innocent.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\angel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\angel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_item_goto_right_tip.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_item_goto_right_tip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\display.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\display.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_brows_refresh.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_brows_refresh.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\heart_eyes.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\heart_eyes.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\whale2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\whale2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fire.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\fire.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\whale.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\whale.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\downarrow.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\japanese_ogre.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\japanese_ogre.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_mention_normal.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\compose_toolbar_mention_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\love_letter.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\love_letter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\evergreen_tree.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\evergreen_tree.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\green_heart.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\green_heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_up.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_104.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_104.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paw_prints.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\paw_prints.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_24.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_69.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_69.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\joy_cat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\joy_cat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\woman.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\woman.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_likeed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_likeed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_setting_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_setting_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\welcome.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hushed.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hushed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fenjiedian.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\fenjiedian.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frowning.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\frowning.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_72.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_72.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dispa3.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\dispa3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_mouth.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\no_mouth.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_75.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_75.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_unlike_small.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_unlike_small.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\persevere.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\persevere.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\audio1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_note.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_my_note.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record_layout_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record_layout_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleepvoltage.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sleepvoltage.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hamster.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hamster.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_34.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_34.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt_launcher.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bt_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sparkles.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sparkles.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alien.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\alien.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\full_moon_with_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\full_moon_with_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_sel.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_square_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fu.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\fu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_a1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\setting_a1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\the_1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\the_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok_woman.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ok_woman.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_57.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_57.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_12.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_12.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_note_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_note_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\palm_tree.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\palm_tree.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record1.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stuck_out_tongue.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\stuck_out_tongue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_60.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_60.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_find_over.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\quick_option_find_over.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\milky_way.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\milky_way.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unamused.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\unamused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\suspect.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\suspect.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sweat_smile.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sweat_smile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volcano.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\volcano.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poodle.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\poodle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_39.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_39.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_icon_project.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\actionbar_icon_project.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_square_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_90.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_90.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\punch.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\punch.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\new_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guardsman.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\guardsman.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_explore_finduser.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_explore_finduser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pray.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\pray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\triumph.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\triumph.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clap.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\clap.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_qr_code.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_qr_code.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\partly_sunny.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\partly_sunny.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skull.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\skull.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_14.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_14.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rage4.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rage4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_brows_back.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_brows_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_87.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_87.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\laughing.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\laughing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diary_canback.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_diary_canback.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_mouth.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\open_mouth.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bear.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\bear.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mushroom.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\mushroom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tropical_fish.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\tropical_fish.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_menu_icon_rss_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\drawer_menu_icon_rss_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\star2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\relieved.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\relieved.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banben.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\banben.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tulip.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\tulip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\horse.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\horse.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleeping.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sleeping.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rage.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rage.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_70.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_70.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lips.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\lips.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pensive.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\pensive.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_32.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_32.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_77.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_77.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_record_play.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\icon_record_play.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_repaste_icon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_repaste_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bar_meter_nor.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\widget_bar_meter_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rabbit2.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rabbit2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_note_delete.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ic_note_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rooster.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\rooster.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smirk.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smirk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ear_of_rice.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ear_of_rice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_80.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_80.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_center_bg.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\user_center_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\waning_crescent_moon.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\waning_crescent_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ox.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\ox.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_67.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_67.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hatching_chick.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\hatching_chick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cherry_blossom.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\cherry_blossom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xianshireliang.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\xianshireliang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tired_face.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\tired_face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sweat.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\sweat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_29.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_29.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_42.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\smiley_42.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zzz.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-hdpi\\zzz.png"
+    }
+]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:background="@color/main_background"
+        android:padding="@dimen/space_8" >
+		<LinearLayout style="@style/item_input_container" >
+
+            <AutoCompleteTextView
+                android:id="@+id/cmd_colection_no"
+                style="@style/item_input_edittext"
+                android:inputType="number"
+                android:imeOptions="actionNext"
+                android:hint="@string/hint_colection_no" />
+
+            <ImageView
+                android:id="@+id/iv_clear_webserviceip"
+                style="@style/item_input_clear"
+                android:contentDescription="@null"
+                android:visibility="gone" />
+        </LinearLayout>
+        <LinearLayout style="@style/item_input_container"
+            android:layout_marginTop="@dimen/space_16" >
+
+            <AutoCompleteTextView
+                android:id="@+id/cmd_meter_no"
+                style="@style/item_input_edittext"
+                android:inputType="number"
+                android:imeOptions="actionNext"
+                android:hint="@string/hint_meter_no" />
+
+            <ImageView
+                android:id="@+id/iv_clear_webserviceport"
+                style="@style/item_input_clear"
+                android:contentDescription="@null"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <Spinner
+            android:id="@+id/cmd_SpinnerMeterType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+         <LinearLayout
+	         android:layout_width="match_parent"
+	         android:layout_height="wrap_content"
+	         android:orientation="vertical" >
+		       <include
+		            android:id="@+id/cmdMeterTitleViewGroup"
+		            android:layout_height="40dp"
+		            layout="@layout/cmd_meter_listitem" />
+		        <ListView
+		            android:id="@+id/cmdMeterListView"
+		            android:layout_width="fill_parent"
+		            android:layout_height="match_parent"
+		            android:cacheColorHint="@android:color/transparent"
+		           
+		            android:fadingEdge="none"
+		            android:scrollbars="none"
+		            android:textColor="@color/black">
+		        </ListView>
+		</LinearLayout> 
+  		
+    </LinearLayout>
+

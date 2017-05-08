@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:background="@drawable/mypop_bg"
+     android:orientation="horizontal">
+		
+		    <ExpandableListView
+		        android:id="@+id/hieExpListView"
+		        android:layout_width="match_parent"
+		        android:layout_height="fill_parent"
+		        android:layout_weight="2"
+		        android:background="@color/group_item_bg"
+		        android:cacheColorHint="@android:color/transparent"
+		        android:divider="@color/child_item_diveder"
+		        android:dividerHeight="1dp"
+		        android:scrollbars="none" />
+		    <View
+		        android:layout_width="1dp"
+		        android:layout_height="fill_parent"
+		        android:background="@color/child_item_diveder" />
+		    <ListView
+		        android:id="@+id/entranceListView"
+		        android:layout_width="match_parent"
+		        android:layout_height="fill_parent"
+		        android:layout_weight="3"
+		        android:background="@color/child_item_bg"
+		        android:cacheColorHint="@android:color/transparent"
+		        android:divider="@color/child_item_diveder"
+		        android:dividerHeight="1dp"
+		        android:scrollbars="none" />
+		
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\qr_sacn.mp3",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\raw\\qr_sacn.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\notificationsound.wav",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\raw\\notificationsound.wav"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/main_background"
+    android:orientation="vertical"
+    android:padding="@dimen/space_8">
+
+    <LinearLayout style="@style/item_input_container">
+
+        <AutoCompleteTextView
+            android:id="@+id/et_colection_no"
+            style="@style/item_input_edittext"
+            android:hint="@string/hint_colection_no"
+            android:imeOptions="actionNext"
+            android:inputType="textEmailAddress" />
+
+        <ImageView
+            android:id="@+id/iv_clear_webserviceip"
+            style="@style/item_input_clear"
+            android:contentDescription="@null"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/item_input_container"
+        android:layout_marginTop="@dimen/space_16">
+
+        <AutoCompleteTextView
+            android:id="@+id/et_meter_no"
+            style="@style/item_input_edittext"
+            android:hint="@string/hint_meter_no"
+            android:imeOptions="actionNext"
+            android:inputType="number" />
+
+        <ImageView
+            android:id="@+id/iv_clear_webserviceport"
+            style="@style/item_input_clear"
+            android:contentDescription="@null"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/controlManuGridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/space_16"
+        android:numColumns="5" />
+</LinearLayout>
+

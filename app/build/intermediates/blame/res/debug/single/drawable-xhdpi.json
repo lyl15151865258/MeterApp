@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comment_edittext_normal.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\comment_edittext_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_del_press.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\btn_del_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notification_bg.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\notification_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_del_nor.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\btn_del_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_default_holo_dark_am.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_holo_dark_am.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit_select.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\edit_select.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit_normal.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\edit_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qr_capture.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\qr_capture.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_del.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\btn_del.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comment_edittext_pressed.9.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable-xhdpi\\comment_edittext_pressed.9.png"
+    }
+]

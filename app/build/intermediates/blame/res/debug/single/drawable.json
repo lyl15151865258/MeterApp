@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_infomation_option_item_background.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\my_infomation_option_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_more_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\share_icon_more_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_voice_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\quickoption_icon_voice_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emoji_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_emoji_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opt_text_to_tools_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_opt_text_to_tools_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_sinaweibo_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\share_icon_sinaweibo_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_record_button.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\bg_record_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_white_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_small_white_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_favor.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\ic_action_favor.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_green_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_background.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_clear_bg.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\touch_clear_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_background.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\comment_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechat_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\share_icon_wechat_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_list_cell_single_choice.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\dialog_list_cell_single_choice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_comment_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_send_comment_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_copy_link_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\share_icon_copy_link_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_mention_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\compose_toolbar_mention_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_to_bg_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\chat_to_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_quickoption_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_quickoption_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_exit.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_icon_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_more_btn.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_more_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_report.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\ic_action_report.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.png",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_setting.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_icon_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_trend_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\compose_toolbar_trend_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_keyboard_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\compose_toolbar_keyboard_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_bg.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\pic_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_config.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_config.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_notebook.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\bg_notebook.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messages_left_bubble_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\messages_left_bubble_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_repost.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\ic_action_repost.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_white_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_emoji_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\compose_toolbar_emoji_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_radio_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ib_clear_image_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\ib_clear_image_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textfield_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\textfield_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_picture_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\compose_toolbar_picture_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_holo.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\progress_medium_holo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_me.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_me.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_explore.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_explore.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selfinfo_btn.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_selfinfo_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_send.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\selector_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_layout_item_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\list_layout_item_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_rss.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_icon_rss.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_from_bg_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\chat_from_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_oval_background.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_oval_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_find_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\quickoption_icon_find_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_message_btn.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_message_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opt_tools_to_text_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_opt_tools_to_text_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tweet_bg_parent_rounded_corner.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tweet_bg_parent_rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_opensoft.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_icon_opensoft.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_item_background.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_tweet.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_tweet.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\socialize_titlebar_item_background_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\socialize_titlebar_item_background_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_edittext_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\comment_edittext_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\team_issue_tag_bg.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\team_issue_tag_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_new.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_new.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_clear_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\compose_clear_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_del_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_del_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_quest.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_icon_quest.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\child_item_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\child_item_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_gitapp.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_icon_gitapp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_album_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\quickoption_icon_album_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_search.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_green_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_small_green_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group_item_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\group_item_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_photo_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\quickoption_icon_photo_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_btn.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_home_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_keyboard.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\selector_keyboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_blog.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\drawer_menu_icon_blog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_scan_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\quickoption_icon_scan_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_note_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\quickoption_icon_note_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_clear_input_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_clear_input_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_report.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_report.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_opt_more_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_item_opt_more_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_comment.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\ic_action_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_background.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\selector_tab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mypop_bg.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\mypop_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record_layout.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\selector_record_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_qq_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\share_icon_qq_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechatfriends_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\share_icon_wechatfriends_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_meter.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_meter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_square_btn.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_square_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_query.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_query.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\李玉亮\\.android\\build-cache\\3deb7b7ece4ce4a185fac4aacd5c83bddac4b183\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_device.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\tab_icon_device.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_text_selector.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\quickoption_icon_text_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\teamlist_item_background.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\teamlist_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWork\\Metter_APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_write.xml",
+        "source": "D:\\AndroidStudioWork\\Metter_APP\\app\\src\\main\\res\\drawable\\ic_action_write.xml"
+    }
+]
